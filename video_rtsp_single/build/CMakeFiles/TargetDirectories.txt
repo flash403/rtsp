@@ -1,0 +1,3 @@
+/home/cat/video_rtsp/build/CMakeFiles/rtsp_server.dir
+/home/cat/video_rtsp/build/CMakeFiles/edit_cache.dir
+/home/cat/video_rtsp/build/CMakeFiles/rebuild_cache.dir
